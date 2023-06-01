@@ -1,4 +1,4 @@
-import Pizza from "../types/Pizza";
+import Pizza from "../../types/Pizza";
 import PizzaCard from "./pizza_card/PizzaCard";
 
 interface Props {
